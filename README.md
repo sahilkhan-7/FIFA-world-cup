@@ -15,3 +15,7 @@ Contains results from all matches contested as part of the World Cups.
 
 ### <font color = 'red'><b>World Cup Players Dataset:</b></font>
 Contains the information about the players who played in the World Cups.
+
+---
+## Presentation Report :
+['Report'](https://www.canva.com/design/DAGH2soF078/1bawTY7mThMfcYZ9Vujc6w/view?utm_content=DAGH2soF078&utm_campaign=designshare&utm_medium=link&utm_source=editor)
